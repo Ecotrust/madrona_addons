@@ -1,2 +1,0 @@
-`madrona.common`: Misc Goodies
-=================================

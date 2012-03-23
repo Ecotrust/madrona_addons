@@ -1,2 +1,0 @@
-{% load appname %}
-{% appname %} group request from {{user.username}}

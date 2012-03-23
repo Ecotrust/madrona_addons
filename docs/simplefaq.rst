@@ -1,2 +1,0 @@
-`madrona.simplefaq`: FAQ system 
-===============================

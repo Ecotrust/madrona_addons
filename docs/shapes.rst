@@ -1,2 +1,0 @@
-`madrona.shapes`: Shapefile tools
-=================================
