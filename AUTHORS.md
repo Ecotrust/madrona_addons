@@ -1,10 +1,10 @@
 ## Madrona was written with contributions from the following individuals
 
+* Jared Kibele (UCSB)
 * Matthew Perry (UCSB, Ecotrust)
 * Chad Burt (UCSB)
 * Scott Fletcher (Ecotrust)
 * Tim Welch (Ecotrust)
-* Jared Kibele (UCSB)
 * Colin Ebert (UCSB)
 * Will McClintock (UCSB)
 * Matthew McClintock (UCSB)
